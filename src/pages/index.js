@@ -1,0 +1,10 @@
+export { default as Home } from './Home';
+export { default as Signin } from './Signin';
+export { default as Signup } from './Signup';
+export { default as NovelManage } from './NovelManage';
+export { default as CreateNovel } from './CreateNovel';
+export { default as EditNovel } from './EditNovel';
+export { default as EditUser } from './EditUser';
+export { default as NovelDetail } from './NovelDetail';
+export { default as CreateEpisode } from './CreateEpisode';
+export { default as EditEpisode } from './EditEpisode';
